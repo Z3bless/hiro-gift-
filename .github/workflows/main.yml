@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Texto de la pestaña</title>
+    </head>
+    <body>
+        <h1>Javiwito simulator :3 so silly so silly</h1>
+        <h2>only for hiriwito la persona que mas amo</h2>
+
+     <p><img src="https://th.bing.com/th/id/OIP.vkjdT8yw2ZT2uhs7KumzLwHaHa?w=214&h=214&c=7&r=0&o=7&cb=ucfimgc2&pid=1.7&rm=3"></p>
+       <fieldset>
+<label>
+    dime cosas bonitas :3 nyaaa :
+    <textarea name="anotaciones"></textarea>
+</label>
+<button type="submit">
+    dar amor :3
+</button>
+<p><label>
+    ¿que es lo que mas te gusta de mi  uwu :3 te amo 
+    <input type="text" name="name"> 
+</label></p>
+<p>
+    <label>
+        adhd distractor :3 
+        <input type="color" name="color"    
+    </label>
+</p>
+<p>
+    <select name="mascota">
+    <option value="" aria-label="mascota" disabled selected>quien es la persona que javi mas ama :3</option>
+    <option value="0">hiriwito</option>
+    <option value="1">hiro </option>
+    <option value="2">pest(hiro)</option>
+    <option value="3">cat nap (hiro)</option>
+    <option value="4">leo de ptk (hiro)</option>
+</select>
+</p>
+       </fieldset>
+    </body>
+</html>
